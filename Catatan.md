@@ -4,3 +4,4 @@ gitignore adalah sebuah folder yang digunakan ketika kita tidak ingin memasukan 
 1. buat repository baru di github
 1. tambahkan file config.txt, .gitignore, dan script.js. jadi kita hanya ingin push script.js
 1. ketik daftar file yang tidak ingin dimasukan di repo di dalam .gitignore. selain file .gitignore juga bisa menyimpan folder, pola cnth *.exe
+untuk mengetahui file apa saja yang harus diignore github sudah mempunyai fiturnya dan juga terdapat di repo [official github](https://github.com/github/gitignore). untuk lebih gampang kita bisa mengunjungi [gitignore.io]()
